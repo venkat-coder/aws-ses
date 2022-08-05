@@ -1,0 +1,9 @@
+com\aws\ses\application\SpringBootStarter.class
+com\aws\ses\application\exception\ErrorDetails.class
+com\aws\ses\application\controller\MailController.class
+com\aws\ses\application\serivces\AmazonSESSample.class
+com\aws\ses\application\serivces\MailService.class
+com\aws\ses\application\config\SesConfiguration.class
+com\aws\ses\application\exception\ResourceNotFoundException.class
+com\aws\ses\application\utility\JSONParsing.class
+com\aws\ses\application\exception\GlobalExceptionHandler.class

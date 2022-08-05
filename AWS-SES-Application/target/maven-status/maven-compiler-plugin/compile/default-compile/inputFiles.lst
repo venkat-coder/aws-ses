@@ -1,0 +1,9 @@
+D:\AWS\AWS_WorkPlace\AWS-SES-Application\src\main\java\com\aws\ses\application\exception\ErrorDetails.java
+D:\AWS\AWS_WorkPlace\AWS-SES-Application\src\main\java\com\aws\ses\application\utility\JSONParsing.java
+D:\AWS\AWS_WorkPlace\AWS-SES-Application\src\main\java\com\aws\ses\application\SpringBootStarter.java
+D:\AWS\AWS_WorkPlace\AWS-SES-Application\src\main\java\com\aws\ses\application\config\SesConfiguration.java
+D:\AWS\AWS_WorkPlace\AWS-SES-Application\src\main\java\com\aws\ses\application\exception\ResourceNotFoundException.java
+D:\AWS\AWS_WorkPlace\AWS-SES-Application\src\main\java\com\aws\ses\application\exception\GlobalExceptionHandler.java
+D:\AWS\AWS_WorkPlace\AWS-SES-Application\src\main\java\com\aws\ses\application\serivces\AmazonSESSample.java
+D:\AWS\AWS_WorkPlace\AWS-SES-Application\src\main\java\com\aws\ses\application\serivces\MailService.java
+D:\AWS\AWS_WorkPlace\AWS-SES-Application\src\main\java\com\aws\ses\application\controller\MailController.java
